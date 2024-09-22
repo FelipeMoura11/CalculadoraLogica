@@ -15,4 +15,3 @@ Esta aplicação em Python implementa uma **calculadora lógica** com interface 
 - **Python**
 - **Tkinter**
 
-Este projeto é útil para quem deseja aprender ou trabalhar com lógica proposicional de forma prática e interativa.
